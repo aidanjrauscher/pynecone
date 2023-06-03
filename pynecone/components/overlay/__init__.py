@@ -8,6 +8,7 @@ from .alertdialog import (
     AlertDialogHeader,
     AlertDialogOverlay,
 )
+from .dialog import Dialog
 from .drawer import (
     Drawer,
     DrawerBody,

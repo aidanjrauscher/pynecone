@@ -186,6 +186,7 @@ alert_dialog_content = AlertDialogContent.create
 alert_dialog_footer = AlertDialogFooter.create
 alert_dialog_header = AlertDialogHeader.create
 alert_dialog_overlay = AlertDialogOverlay.create
+dialog = Dialog.create
 drawer = Drawer.create
 drawer_body = DrawerBody.create
 drawer_close_button = DrawerCloseButton.create
